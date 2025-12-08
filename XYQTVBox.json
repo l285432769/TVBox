@@ -102,7 +102,14 @@
         {"key":"drpy_js_金牌","name":"金牌影视[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/金牌影视.js"},
         
         {"key":"柚子资源","name":"🍊柚子资源","type":0,"api":"https://api.yzzy-api.com/inc/api.php","searchable":1,"quickSearch":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾剧","韩国剧","欧美剧","香港剧","泰国剧","日本剧","福利","记录片","动画片","海外剧","倫理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","搞笑","音乐","影视","汽车","短剧大全","预告片","预告片","体育"]},
-        
+
+	    //api
+ 	    {"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key":"快帆","name":"快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+		
         //直播规则区
         //{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/虎牙直播.js","searchable": 0,"quickSearch": 0,"filterable": 1},
